@@ -201,7 +201,7 @@ export default function Home() {
       {/* Start CTA Section */}
       <Div className="container">
         <Cta
-          title="Segurança e tranquilicada <br />em cada viagem!"
+          title="Segurança e tranquilidade <br />em cada viagem!"
           btnText="Sobre nós"
           btnLink="/about"
           bgSrc="/images/cta_bg.jpeg"
